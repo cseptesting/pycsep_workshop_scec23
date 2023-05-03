@@ -1,1 +1,1 @@
-# scec_workshop_2023
+# pycsep_workshop_scec23
